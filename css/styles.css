@@ -7,11 +7,11 @@ Tertiary-text-color: #3cb371; (MediumSeaGreen)
 */
 
 :root {
-  --primary-color: #fffaf0;
-  --secondary-color: #333333;
-  --primary-text-color: #2b2b2b;
-  --secondary-text-color: #2e8b57;
-  --tertiary-text-color: #3cb371;
+  --primary-color: #fffaf0; /*Floral White. background*/
+  --secondary-color: #333333; /*LighterDarkGray. button/grid background */
+  --primary-text-color: #2b2b2b; /*Very Dark Grey*/
+  --secondary-text-color: #2e8b57; /*seagreen*/
+  --tertiary-text-color: #3cb371; /*mediumseagreen*/
   --accent-color: #000;
   --highlight-color: #000;
   --font-weight-body: 400;
