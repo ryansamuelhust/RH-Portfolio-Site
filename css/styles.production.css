@@ -13,9 +13,6 @@ Secondary-text-color: #2e8b57; (SeaGreen)
 Tertiary-text-color: #3cb371; (MediumSeaGreen)
 */
 
-:root { /*Floral White. background*/ /*LighterDarkGray. button/grid background */ /*Very Dark Grey*/ /*seagreen*/ /*mediumseagreen*/
-}
-
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
